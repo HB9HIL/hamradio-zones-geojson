@@ -1,2 +1,4 @@
-# hamradio-zones-geojson
-geojson data of Amateur Radio CQ and ITU Zones
+# GEOJSON DATA
+
+Free geojson data of CQ and ITU Zones in Amateur Radio
+
